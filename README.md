@@ -57,7 +57,7 @@ but **Java** will *always be my second true love* ❤️
 
 ### 🌟 My Motto
 > "Build it. Break it. Fix it. Learn. Repeat."  
-> — me, probably at 3 AM with a half-empty coffee mug ☕
+>  me, probably at 3 AM with a half-empty coffee mug ☕
 
 ---
 
@@ -81,11 +81,11 @@ but **Java** will *always be my second true love* ❤️
 ---
 
 ### 🏗️ Currently Building
-> 🧩 A strong relationship with my crush — **without talking to her** 😜  
+> 🧩 A strong relationship with my crush - **without talking to her** 😜  
 
 ---
 
 ### 🐾 Bonus
-> 💬 *“Code is like humor — when you have to explain it, it’s bad.”*  
+> 💬 *“Code is like humor - when you have to explain it, it’s bad.”*  
 >  
 >  also me, every time I debug my own code 😂
