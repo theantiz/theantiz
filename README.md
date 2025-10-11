@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-Heya 👋 I’m **Jay**, a caffeine-powered developer who lives in the Linux terminal and occasionally ventures out to the real world.  
+Hey 👋 I’m **Jay**, a caffeine-powered developer who lives in the Linux terminal and occasionally ventures out to the real world.  
 
 I build stuff that works (most of the time), break things to learn faster 💥, and love watching ideas turn into lines of code that *just click!* 💡  
 
