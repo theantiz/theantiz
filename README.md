@@ -14,7 +14,7 @@ I build stuff that works (most of the time), break things to learn faster 💥, 
 
 When I’m not coding, I’m probably reading tech blogs, geeking over architecture diagrams, or tweaking my setup for the 999th time 🧑‍💻.
 
-Oh, and yeah — I’ve flirted a bit with the **MERN stack** 😏,  
+Oh, and yeah  I’ve flirted a bit with the **MERN stack** 😏,  
 but **Java** will *always be my second true love* ❤️  
 (*My first?* Obviously my **computer and my laptop**. We’ve been through kernel panics together 🫶)
 
@@ -66,7 +66,7 @@ but **Java** will *always be my second true love* ❤️
 <p align="center">
   <a href="https://github.com/theantiz"><img src="https://img.shields.io/badge/GitHub-theantiz-181717?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/jaychothiyawala/"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Chothiyawala-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:jaychothiyawala@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff4b4b?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:jaychothiyawala04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff4b4b?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -75,18 +75,17 @@ but **Java** will *always be my second true love* ❤️
 - 🧠 I’ve used Linux longer than I’ve used my phone wallpaper 😅  
 - 🐳 I enjoy configuring Docker containers (yes, seriously)  
 - 🧰 I break open-source projects *just to learn how to fix them*  
-- ⚡ “Just one more feature” — my most used phrase before sunrise 🌅  
+- ⚡ “Just one more feature” my most used phrase before sunrise 🌅  
 - ❤️ My laptop’s fan has heard more of my life stories than most people 💨  
 
 ---
 
 ### 🏗️ Currently Building
-> 🧩 Something super cool using **Spring Boot**, **React**, **Redis**, and **Kafka** —  
-> stay tuned, it’s gonna be *clean, fast, and a little bit chaotic!* 😜  
+> 🧩 A strong relationship with my crush — **without talking to her** 😜  
 
 ---
 
 ### 🐾 Bonus
 > 💬 *“Code is like humor — when you have to explain it, it’s bad.”*  
 >  
-> — also me, every time I debug my own code 😂
+>  also me, every time I debug my own code 😂
