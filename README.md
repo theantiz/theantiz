@@ -6,20 +6,6 @@
 
 ---
 
-### 🧠 About Me
-
-Hey 👋 I’m **Jay**, a caffeine-powered developer who lives in the Linux terminal and occasionally ventures out to the real world.  
-
-I build stuff that works (most of the time), break things to learn faster 💥, and love watching ideas turn into lines of code that *just click!* 💡  
-
-When I’m not coding, I’m probably reading tech blogs, geeking over architecture diagrams, or tweaking my setup for the 999th time 🧑‍💻.
-
-Oh, and yeah  I’ve flirted a bit with the **MERN stack** 😏,  
-but **Java** will *always be my second true love* ❤️  
-(*My first?* Obviously my **computer and my laptop**. We’ve been through kernel panics together 🫶)
-
----
-
 ### 🧰 Tech Toolbox
 
 #### 🖥️ Backend Power Moves
@@ -54,11 +40,3 @@ but **Java** will *always be my second true love* ❤️
 - 🧰 I break open-source projects *just to learn how to fix them*  
 - ⚡ “Just one more feature” my most used phrase before sunrise 🌅  
 - ❤️ My laptop’s fan has heard more of my life stories than most people 💨  
-
----
-
-
-### 🐾 Bonus
-> 💬 *“Code is like humor - when you have to explain it, it’s bad.”*  
->  
->  also me, every time I debug my own code 😂
