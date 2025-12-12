@@ -46,30 +46,7 @@ but **Java** will *always be my second true love* ❤️
 - 🐧 **Linux** – my happy place for over **3 years**  
   (If it doesn’t run on Linux… I’ll make it run on Linux 😏)
 
----
 
-### 💡 What I’m Currently Up To
-- Getting my hands dirty with **System Design** & **Microservices** 🧩  
-- Building real-time systems using **Kafka + Redis** 💬  
-- Making my code cleaner, smarter & (hopefully) bug-free 🧘‍♂️  
-
----
-
-### 🌟 My Motto
-> "Build it. Break it. Fix it. Learn. Repeat."  
->  me, probably at 3 AM with a half-empty coffee mug ☕
-
----
-
-### 📫 Let’s Connect!
-
-<p align="center">
-  <a href="https://github.com/theantiz"><img src="https://img.shields.io/badge/GitHub-theantiz-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/jaychothiyawala/"><img src="https://img.shields.io/badge/LinkedIn-Jay%20Chothiyawala-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:jaychothiyawala04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff4b4b?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
 
 ### 🧩 Fun Facts
 - 🧠 I’ve used Linux longer than I’ve used my phone wallpaper 😅  
@@ -80,10 +57,6 @@ but **Java** will *always be my second true love* ❤️
 
 ---
 
-### 🏗️ Currently Building
-> 🧩 A strong relationship with my crush - **without talking to her** 😜  
-
----
 
 ### 🐾 Bonus
 > 💬 *“Code is like humor - when you have to explain it, it’s bad.”*  
