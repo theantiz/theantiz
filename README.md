@@ -16,7 +16,7 @@
 - **SonarQube** – code that passes *vibe checks* ✅  
 
 #### 🎨 Frontend Vibes
-- **React** ⚛️, **HTML**, **CSS**, **JavaScript**, **TypeScript**  
+- **React** ⚛️, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Next.js**
 - **Tailwind CSS**, **Bootstrap**, **Thymeleaf** - because pixels deserve love too 💅  
 
 #### 📱 Cross-Platform Fun
