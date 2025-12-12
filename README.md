@@ -2,7 +2,7 @@
 *(aka “antiz”)*  
 
 💻 **Computer Science & Engineering Student @ Manipal Institute of Technology, Bengaluru**  
-⚡ Passionate about crafting **efficient, scalable, and secure** full-stack applications that *actually survive demo day!* 🚀  
+⚡ Passionate about crafting **efficient, scalable, and secure** full-stack applications  
 
 ---
 
@@ -16,8 +16,8 @@
 - **SonarQube** – code that passes *vibe checks* ✅  
 
 #### 🎨 Frontend Vibes
-- **React** ⚛️, **HTML**, **CSS**, **JavaScript**  
-- **Tailwind CSS**, **Bootstrap**, **Thymeleaf** – because pixels deserve love too 💅  
+- **React** ⚛️, **HTML**, **CSS**, **JavaScript**, **TypeScript**  
+- **Tailwind CSS**, **Bootstrap**, **Thymeleaf** - because pixels deserve love too 💅  
 
 #### 📱 Cross-Platform Fun
 - **Dart + Flutter** – one codebase, many screens 🌍  
@@ -29,9 +29,8 @@
 - **Kafka** – where messages go brrr ⚡  
 
 #### 🧑‍💻 Environment of Choice
-- 🐧 **Linux** – my happy place for over **3 years**  
+- 🐧 **Linux** – my happy place for over **4 years**  
   (If it doesn’t run on Linux… I’ll make it run on Linux 😏)
-
 
 
 ### 🧩 Fun Facts
