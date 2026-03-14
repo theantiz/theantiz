@@ -1,9 +1,9 @@
 # Hey there! I’m Jay Chothiyawala  
 *(aka “antiz”)*  
 
-💻 Computer Science & Engineering Student @ Manipal Institute of Technology, Bengaluru  
+Computer Science & Engineering Student @ Manipal Institute of Technology, Bengaluru  
 
-🚀 Full-Stack Java Developer & Freelance Backend Engineer building scalable, production-ready systems.
+Full-Stack Developer & Freelance Backend Engineer building scalable, production-ready systems.
 
 ## Tech Stack
 
