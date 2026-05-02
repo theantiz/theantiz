@@ -3,7 +3,7 @@
 
 Computer Science & Engineering Student @ Manipal Institute of Technology, Bengaluru  
 
-Full-Stack Developer & Freelance Backend Engineer building scalable, production-ready systems.
+Full-Stack Developer building scalable, production-ready systems.
 
 ## Tech Stack
 
