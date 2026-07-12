@@ -9,5 +9,5 @@ Full-Stack Developer building scalable, production-ready systems.
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,py,js,spring,fastapi,nextjs,react,tailwind,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,githubactions,aws,azure&theme=dark&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,ts,py,js,spring,fastapi,nextjs,react,tailwind,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,githubactions,jenkins,aws,azure&theme=dark&perline=10" alt="Tech Stack"/>
 </p>
