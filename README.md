@@ -2,7 +2,7 @@
 ### *(aka "antiz")*
 
 Computer Science & Engineering Student @ Manipal Institute of Technology, Bengaluru  
-Full-Stack Developer building scalable, production-ready systems.
+AI Engineer and Full-Stack Developer building scalable, production-ready systems end-to-end.
 
 
 
